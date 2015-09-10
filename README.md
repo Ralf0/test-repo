@@ -1,2 +1,2 @@
 # test-repo
-My first repo
+This is my first repository for my Data Science class.
